@@ -3,8 +3,3 @@
 - 🌱 I graduated from Game Design @ Conestoga College.
 - 💞️ I’m looking to improve my skills as a designer and programmer.
 - 📫 How to reach me justin.ostrum[at]gmail.com, linkedin.com/in/justinostrum
-
-<!---
-JustinOstrum/JustinOstrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
