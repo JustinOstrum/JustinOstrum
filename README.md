@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, Game Design, playing video and tabletop games.
 - 🌱 I graduated from Game Design @ Conestoga College.
 - 💞️ I’m looking to improve my skills as a designer and programmer.
-- 📫 How to reach me justin.ostrum[at]gmail.com, linkedin.com/in/justinostrum
+- 📫 Reach me at linkedin.com/in/justinostrum, or at my website justinostrum.ca
